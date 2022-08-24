@@ -1,0 +1,1 @@
+exports.BINANCE_ENDPOINT = 'https://api.binance.com/api/v3/ticker/24hr?symbols=["BTCUSDT","ETHUSDT","ENJUSDT","GRTUSDT"]'

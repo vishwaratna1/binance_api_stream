@@ -1,0 +1,19 @@
+{
+  "name": "connect_with_binance_api",
+  "version": "1.0.0",
+  "description": "connect with Binance API and stream responses",
+  "main": "server.js",
+  "repository": "https://github.com/vishwaratna1/binance_api_stream.git",
+  "author": "vishwaratna1 <vishwaratna555@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "2.6.6",
+    "socket.io": "^4.5.1"
+  }
+}
