@@ -7,10 +7,6 @@ https://api.binance.com/api/v3/ticker/24hr?symbols=["BTCUSDT","ETHUSDT","ENJUSDT
 - Stream the data received from above endpoint through socket after every 5 seconds. Purpose is to show users real time updates on coin prices.
 
 ---
----
----
----
----
 
 ### DOCUMENTATION
 - Follow these steps to setup and start the Application.
@@ -53,7 +49,7 @@ https://api.binance.com/api/v3/ticker/24hr?symbols=["BTCUSDT","ETHUSDT","ENJUSDT
     or,
     npm install
     ```
-    - Step 4
+    - #### Step 4
     ```
     yarn start
     or,
